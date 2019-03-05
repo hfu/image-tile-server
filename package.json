@@ -1,0 +1,28 @@
+{
+  "name": "image-tile-server",
+  "version": "1.0.0",
+  "description": "a simple image tile server that uses mapbox-gl-native",
+  "main": "index.js",
+  "dependencies": {
+    "@mapbox/mapbox-gl-native": "^4.1.0",
+    "@mapbox/tilebelt": "^1.0.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "sharp": "^0.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/image-tile-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/image-tile-server/issues"
+  },
+  "homepage": "https://github.com/hfu/image-tile-server#readme"
+}
