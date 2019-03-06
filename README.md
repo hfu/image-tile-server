@@ -16,3 +16,7 @@ node index.js
 
 # see also
 This work is inspired by [apkoponen/mapbox-gl-native-server-example](https://github.com/apkoponen/mapbox-gl-native-server-example).
+
+# note
+You need to think about adding offset and then cut it, or even introducing metatile. See also index.js of [image-tiles-512](https://github.com/hfu/image-tiles-512).
+
