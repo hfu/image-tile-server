@@ -8,7 +8,7 @@
     "@mapbox/tilebelt": "^1.0.1",
     "express": "^4.16.4",
     "request": "^2.88.0",
-    "sharp": "^0.21.3"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {},
   "scripts": {
