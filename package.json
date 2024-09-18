@@ -6,7 +6,7 @@
   "dependencies": {
     "@mapbox/mapbox-gl-native": "^4.1.0",
     "@mapbox/tilebelt": "^1.0.1",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "request": "^2.88.0",
     "sharp": "^0.32.6"
   },
